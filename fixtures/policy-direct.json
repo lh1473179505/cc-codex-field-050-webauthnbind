@@ -1,0 +1,17 @@
+{
+  "user_verification": "required",
+  "related_origins_enabled": false,
+  "related_origins": [
+    "https://app.example.com"
+  ],
+  "allow_cross_origin": false,
+  "allowed_algs": [
+    "ES256",
+    "EdDSA"
+  ],
+  "allowed_attestation_formats": [
+    "packed"
+  ],
+  "packed_require_x5c": true,
+  "allow_zero_sign_count": true
+}

@@ -1,0 +1,25 @@
+{
+  "credentials": [
+    {
+      "id": "ED2Nlu17gcMhfwZwyNg8bg",
+      "user_handle": "dXNlci1hbHBoYQ",
+      "sign_count": 4,
+      "public_key_cose": "pQECAyYgASFYIHq13jv5NLLe6czA8MgYj2RPP8X-X0N4bXk9MDaYRh3cIlggGEl1eN8ETmTHn3pIwA66y2AJ36brfb3iCgZzpUFlg-k",
+      "backup_eligible": true,
+      "backup_state": false,
+      "rp_id": "example.com",
+      "aaguid": "00000000000000000000000000000000",
+      "alg": "ES256"
+    },
+    {
+      "id": "-L0nBtlr1Z2nxYphZbJFOA",
+      "user_handle": "dXNlci1hbHBoYQ",
+      "sign_count": 1,
+      "public_key_cose": "pAEBAycgBiFYIJmBiymgU8yOWvpvHlp5K4PDfkIbUBptBShqk6FxJhCx",
+      "backup_eligible": true,
+      "backup_state": false,
+      "rp_id": "example.com",
+      "alg": "EdDSA"
+    }
+  ]
+}

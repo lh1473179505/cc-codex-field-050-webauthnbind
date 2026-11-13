@@ -1,0 +1,7 @@
+{
+  "type": "create",
+  "expected_challenge": "R-a8-sLYRXP96xKk4Q4HS10bcVLtJQ6o3CTc3EQKzsU",
+  "credential_id": "e0rG9rsfoy_7kPjoW9ItdQ",
+  "client_data_json": "eyJ0eXBlIjoid2ViYXV0aG4uY3JlYXRlIiwiY2hhbGxlbmdlIjoiUi1hOC1zTFlSWFA5NnhLazRRNEhTMTBiY1ZMdEpRNm8zQ1RjM0VRS3pzVSIsIm9yaWdpbiI6Imh0dHBzOi8vbG9naW4uZXhhbXBsZS5jb20iLCJjcm9zc09yaWdpbiI6ZmFsc2V9",
+  "attestation_object": "o2NmbXRmcGFja2VkaGF1dGhEYXRhWJSjeab27q-5pV43jBGANOJ1Hmgvq58tMKsT0hJVhs4ZR0UAAAAAAAAAAAAAAAAAAAAAAAAAAAAQe0rG9rsfoy_7kPjoW9ItdaUBAgMmIAEhWCCUu5PqLHDoVr2GWaXh6geJucCC4tLot1b7wxgHPTo-yyJYIKI3L-Feyo_YtJvTVfdu30766u2-c20qRAzhHMqgDYEKZ2F0dFN0bXSiY2FsZyZjc2lnWEAJJgRqh-jWdfC97YReW9VnnwLRb8IxUQgEEm9YXFacSe3NqW-ifen7q8fUtqhiKdZ99DvZmjMJMcIHBxSnuOTw"
+}

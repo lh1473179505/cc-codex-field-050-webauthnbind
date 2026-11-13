@@ -1,0 +1,7 @@
+{
+  "type": "create",
+  "expected_challenge": "0FlfLMTnAxxn-N8tqHBuHR-4PHDeJYQ0vSuCndrOs-E",
+  "credential_id": "PXQmp_CFkDbiXtjh6jFl-A",
+  "client_data_json": "eyJ0eXBlIjoid2ViYXV0aG4uY3JlYXRlIiwiY2hhbGxlbmdlIjoiMEZsZkxNVG5BeHhuLU44dHFIQnVIUi00UEhEZUpZUTB2U3VDbmRyT3MtRSIsIm9yaWdpbiI6Imh0dHBzOi8vbG9naW4uZXhhbXBsZS5jb20iLCJjcm9zc09yaWdpbiI6ZmFsc2V9",
+  "attestation_object": "o2NmbXRkbm9uZWhhdXRoRGF0YViUo3mm9u6vuaVeN4wRgDTidR5oL6ufLTCrE9ISVYbOGUdFAAAAAAAAAAAAAAAAAAAAAAAAAAAAED10JqfwhZA24l7Y4eoxZfilAQIDJiABIVgggNNTGT-WxaZr2Q84pwqQk8q7p-KQQuxwM8iDssF2pCsiWCAdkm5r_fenm9YHaA9QwWnIMPWRUMU0T_l4MI8jTHH3zWdhdHRTdG10oA"
+}

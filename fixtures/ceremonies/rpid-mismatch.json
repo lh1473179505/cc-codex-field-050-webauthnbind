@@ -1,0 +1,9 @@
+{
+  "type": "get",
+  "expected_challenge": "9qNVruzQI9HOcEgtJmC8Q9AlOS4PJmx6gWxbZJr12SY",
+  "credential_id": "ED2Nlu17gcMhfwZwyNg8bg",
+  "client_data_json": "eyJ0eXBlIjoid2ViYXV0aG4uZ2V0IiwiY2hhbGxlbmdlIjoiOXFOVnJ1elFJOUhPY0VndEptQzhROUFsT1M0UEpteDZnV3hiWkpyMTJTWSIsIm9yaWdpbiI6Imh0dHBzOi8vbG9naW4uZXhhbXBsZS5jb20iLCJjcm9zc09yaWdpbiI6ZmFsc2V9",
+  "authenticator_data": "6e-yH3QOSH9Sm0SbsRl8QPNuRD-r_Y8AFKDl7FGoxYwNAAAABw",
+  "signature": "V0b6o-ytop8xRweiMm1aifIhoEZnsrDwKOGXdvVUsa0qWD0OmX7WQKwdF1zeJaKce0_0NMt3h9OXPqg4VMTtMA",
+  "user_handle": "dXNlci1hbHBoYQ"
+}
